@@ -1,0 +1,22 @@
+{
+  "name": "@inikolaev/insomnia-plugin-signature",
+  "version": "1.0.0",
+  "author": "Igor Nikolaev",
+  "description": "Insomnia Signature Template Tag",
+  "license": "MIT",
+  "repository": "https://github.com/inikolaev/insomnia-plugin-signature",
+  "bugs": {
+    "url": "https://github.com/inikolaev/insomnia-plugin-signature/issues"
+  },
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },  
+  "insomnia": {                    
+    "name": "insomnia-plugin-signature",
+    "description": "Insomnia Signature Template Tag"
+  },
+  
+  "dependencies": [],
+  "devDependencies": []
+}
